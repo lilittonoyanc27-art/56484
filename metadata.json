@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra ⚽ Español — Հայերեն",
+  "description": "Ինտերակտիվ Pasapalabra իսպաներեն-հայերեն խաղ 27 տառերով (Էլ Ռոսկո), արտասանությամբ և հայերեն թարգմանություններով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
